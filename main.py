@@ -1,7 +1,7 @@
 import telebot
 
 
-bot = telebot.TeleBot('6559147374:AAFM3ZZ4kSx48uIzCvcVRpndndTecuHoX_s')
+bot = telebot.TeleBot('')
 
 
 class Figure:
